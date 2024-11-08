@@ -1,0 +1,4 @@
+controllers give the functionality of every single page
+model --> database
+views --> store all html ejs file
+POST method jayega req then res ke sath fir bhejayenga
